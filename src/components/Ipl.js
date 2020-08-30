@@ -26,11 +26,6 @@ state={
            return(
                <>
 
-
-
-
-
-
 <div className="container" style={{marginTop:"1rem"}}>
 
 <Card>
