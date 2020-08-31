@@ -16,7 +16,7 @@ state={
     
     return (
 
-        <section className="bgimage">
+        <section className="bgimage" style={{backgroundSize:"contain"}}>
         <div >
         <center>
     <h1 style={{paddingTop:"2rem", color:"#fff"}}>IPL</h1>
